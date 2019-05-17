@@ -1,0 +1,1282 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+        {
+            "identifier": "aru_sticker_0001",
+            "name": "ARU 01",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-1.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [
+            {
+            "image_file": "sticker-1.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-2.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-3.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-4.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-5.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-6.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-7.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-8.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-9.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-10.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-11.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-12.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-13.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-14.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-15.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-16.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-17.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-18.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-19.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-20.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-21.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-22.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-23.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-24.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-25.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-26.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-27.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-28.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-29.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-30.png",
+            "emojis": []
+            }
+            ]
+        },
+        {
+            "identifier": "aru_sticker_0002",
+            "name": "ARU 02",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-2.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [
+            {
+            "image_file": "sticker-31.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-32.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-33.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-34.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-35.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-36.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-37.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-38.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-39.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-40.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-41.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-42.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-43.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-44.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-45.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-46.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-47.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-48.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-49.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-50.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-51.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-52.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-53.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-54.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-55.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-56.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-57.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-58.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-59.png",
+            "emojis": []
+            },
+            {
+            "image_file": "sticker-60.png",
+            "emojis": []
+            }
+            ]
+        },
+        {
+            "identifier": "aru_sticker_0003",
+            "name": "ARU 03",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-3.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [
+                    {
+                        "image_file": "sticker-61.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-62.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-63.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-64.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-65.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-66.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-67.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-68.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-69.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-70.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-71.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-72.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-73.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-74.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-75.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-76.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-77.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-78.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-79.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-80.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-81.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-82.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-83.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-84.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-85.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-86.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-87.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-88.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-89.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-90.png",
+                        "emojis": []
+                    }
+                ]
+        },
+        {
+            "identifier": "aru_sticker_0004",
+            "name": "ARU 04",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-4.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [
+                  {
+                        "image_file": "sticker-91.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-92.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-93.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-94.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-95.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-96.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-97.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-98.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-99.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-100.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-101.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-102.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-103.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-104.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-105.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-106.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-107.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-108.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-109.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-110.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-111.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-112.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-113.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-114.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-115.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-116.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-117.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-118.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-119.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-120.png",
+                        "emojis": []
+                    }
+            ]
+        },
+        {
+            "identifier": "aru_sticker_0005",
+            "name": "ARU 05",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-5.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [
+                  {
+                        "image_file": "sticker-121.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-122.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-123.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-124.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-125.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-126.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-127.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-128.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-129.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-130.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-131.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-132.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-133.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-134.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-135.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-136.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-137.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-138.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-139.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-140.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-141.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-142.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-143.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-144.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-145.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-146.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-147.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-148.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-149.png",
+                        "emojis": []
+                    },
+                    {
+                        "image_file": "sticker-150.png",
+                        "emojis": []
+                    }
+            ]
+        },
+        {
+            "identifier": "aru_sticker_0006",
+            "name": "ARU 06",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-6.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [{
+            "image_file": "sticker-151.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-152.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-153.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-154.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-155.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-156.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-157.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-158.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-159.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-160.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-161.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-162.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-163.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-164.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-165.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-166.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-167.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-168.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-169.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-170.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-171.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-172.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-173.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-174.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-175.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-176.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-177.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-178.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-179.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-180.png",
+            "emojis": []
+        }]
+        },
+        {
+            "identifier": "aru_sticker_0007",
+            "name": "ARU 07",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-7.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [{
+            "image_file": "sticker-181.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-182.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-183.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-184.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-185.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-186.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-187.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-188.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-189.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-190.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-191.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-192.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-193.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-194.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-195.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-196.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-197.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-198.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-199.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-200.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-201.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-202.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-203.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-204.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-205.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-206.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-207.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-208.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-209.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-210.png",
+            "emojis": []
+        }]
+        },
+        {
+            "identifier": "aru_sticker_0008",
+            "name": "ARU 08",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-8.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [{
+            "image_file": "sticker-211.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-212.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-213.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-214.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-215.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-216.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-217.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-218.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-219.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-220.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-221.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-222.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-223.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-224.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-225.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-226.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-227.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-228.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-229.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-230.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-231.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-232.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-233.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-234.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-235.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-236.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-237.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-238.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-239.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-240.png",
+            "emojis": []
+        }]
+        },
+        {
+            "identifier": "aru_sticker_0009",
+            "name": "ARU 09",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-9.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [{
+            "image_file": "sticker-241.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-242.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-243.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-244.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-245.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-246.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-247.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-248.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-249.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-250.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-251.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-252.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-253.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-254.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-255.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-256.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-257.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-258.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-259.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-260.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-261.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-262.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-263.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-264.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-265.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-266.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-267.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-268.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-269.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-270.png",
+            "emojis": []
+        }]
+        },
+        {
+            "identifier": "aru_sticker_0010",
+            "name": "ARU 10",
+            "publisher": "EY ARU",
+            "tray_image_file" : "tray-aru-10.png",
+            "publisher_website" : "",
+            "privacy_policy_website" : "",
+            "license_agreement_website" : "",
+            "stickers": [{
+            "image_file": "sticker-271.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-272.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-273.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-274.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-275.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-276.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-277.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-278.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-279.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-280.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-281.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-282.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-283.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-284.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-285.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-286.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-287.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-288.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-289.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-290.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-291.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-292.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-293.png",
+            "emojis": []
+        },
+        {
+            "image_file": "sticker-294.png",
+            "emojis": []
+        }]
+        }
+    ]
+}
